@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66e4de4c-986e-4e6a-8f6b-b7a6db1719b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1V50sHZ70cbPRjWYsd5C9Dit4W0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\a43n\Progetti\Satispay\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rz.satispay.Application" />
+      <module name="Satispay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rz.satispay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloControllerTest.getHello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Satispay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rz.satispay.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rz.satispay.test" />
+      <option name="MAIN_CLASS_NAME" value="com.rz.satispay.test.HelloControllerTest" />
+      <option name="METHOD_NAME" value="getHello" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.HelloControllerTest.getHello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Carrefour" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\a43n\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66e4de4c-986e-4e6a-8f6b-b7a6db1719b1" name="Default Changelist" comment="" />
+      <created>1576527853754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576527853754</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="543" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576945969176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="543" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1576945969176" />
+    <state x="499" y="160" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1577022080827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577022080827" />
+    <state x="685" y="166" width="578" height="492" key="#xdebugger.XInspectDialog" timestamp="1577031648872">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="685" y="166" width="578" height="492" key="#xdebugger.XInspectDialog/0.0.1536.824@0.0.1536.824" timestamp="1577031648872" />
+    <state x="914" y="160" width="488" height="591" key="#xdebugger.evaluate" timestamp="1578243406464">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="914" y="160" width="488" height="591" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1578243406464" />
+    <state width="1493" height="315" key="GridCell.Tab.0.bottom" timestamp="1578244985762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="315" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578244985762" />
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577084539464" />
+    <state width="1493" height="315" key="GridCell.Tab.0.center" timestamp="1578244985762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="315" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578244985762" />
+    <state width="1877" height="278" key="GridCell.Tab.0.center/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577084539463" />
+    <state width="1493" height="315" key="GridCell.Tab.0.left" timestamp="1578244985762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="315" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578244985762" />
+    <state width="1877" height="278" key="GridCell.Tab.0.left/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577084539462" />
+    <state width="1493" height="315" key="GridCell.Tab.0.right" timestamp="1578244985762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="315" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578244985762" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1577084539463" />
+    <state width="1493" height="364" key="GridCell.Tab.1.bottom" timestamp="1578244462304">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="364" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578244462304" />
+    <state width="1493" height="364" key="GridCell.Tab.1.center" timestamp="1578244462303">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="364" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578244462303" />
+    <state width="1493" height="364" key="GridCell.Tab.1.left" timestamp="1578244462303">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="364" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578244462303" />
+    <state width="1493" height="364" key="GridCell.Tab.1.right" timestamp="1578244462304">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="364" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578244462304" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1576946522201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576946522201" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1577031648836">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1577031648836" />
+    <state x="93" y="93" width="1350" height="638" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578236332065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1578236332065" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1578236332065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1578236332065" />
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1578233305628">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578233305628" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1578234807360">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1578234807360" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1577021505801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1577021505801" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rz/satispay/Application.java</url>
+          <line>226</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rz/satispay/Application.java</url>
+          <line>215</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rz/satispay/Application.java</url>
+          <line>205</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rz/satispay/Application.java</url>
+          <line>199</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="con.getRequestProperties()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Satispay$Application.ic" NAME="Application Coverage Results" MODIFIED="1578243127965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.rz.satispay.*</FILTER>
+    </SUITE>
+  </component>
+</project>
