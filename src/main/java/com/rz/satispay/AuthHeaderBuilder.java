@@ -30,6 +30,16 @@ public class AuthHeaderBuilder {
         return headers;
     }
 
+    public static Set<HeaderField> buildDeleteHeader() {
+
+        Set<HeaderField> headers = HeadersBuilder.buildDeleteHeaders();
+        headers.add(new HeaderField("authorization", createAuthString(headers)));
+        headers.add(new HeaderField("Content-Type", "application/json"));
+
+        return headers;
+    }
+
+
     private static String createAuthString(Set<HeaderField> headers) {
         StringBuilder sb = new StringBuilder();
         headers.forEach(headerField -> sb.append(headerField.toString()).append("\n"));

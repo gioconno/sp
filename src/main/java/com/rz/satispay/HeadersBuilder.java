@@ -27,6 +27,9 @@ public class HeadersBuilder {
         return buildRequest(HTTPMethod.PUT, body);
     }
 
+    static Set<HeaderField> buildDeleteHeaders() {
+        return buildRequest(HTTPMethod.DELETE, null);
+    }
 
     private static Set<HeaderField> buildRequest(HTTPMethod httpMethod, String body) {
         try {

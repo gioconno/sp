@@ -40,6 +40,13 @@ public class RequestBuilder {
 
     }
 
+    static void doDelete(String body) {
+        System.out.println("----------------< DELETE >----------------");
+
+        execute(HTTPMethod.DELETE.toString(), AuthHeaderBuilder.buildDeleteHeader(), null);
+
+    }
+
     private static void execute(String requestMethod) {
         execute(requestMethod, Collections.emptySet(), null);
     }
