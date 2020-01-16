@@ -2,6 +2,7 @@ package com.rz.satispay;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
+import java.net.URISyntaxException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -38,13 +39,17 @@ public class SignatureBuilder {
     private static String getPrivateKey(String privateKeyPath) {
         try {
             return readFile(privateKeyPath);
-        } catch (IOException e) {
+        } catch (IOException | URISyntaxException e) {
             throw new IllegalStateException("Private key exception: " + e.getMessage(), e);
         }
     }
 
-    private static String readFile(String privateKeyPath) throws IOException {
-        Path path = Paths.get(privateKeyPath);
+    private static String readFile(String privateKeyPath) throws IOException, URISyntaxException {
+
+        Path path = Paths.get(SignatureBuilder.class
+                .getClassLoader()
+                .getResource(privateKeyPath)
+                .toURI());
 
         Stream<String> lines = Files.lines(path);
 

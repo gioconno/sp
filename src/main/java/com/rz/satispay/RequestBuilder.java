@@ -7,7 +7,16 @@ import java.net.URL;
 import java.util.Collections;
 import java.util.Set;
 
-
+/**
+ * <p>
+ * This class provides methods to run the required HTTP(s) method (GET, POST, PUT, DELETE) against the
+ * (fixed URL) https//staging.authservices.satispay.com//wally-services/protocol/tests/signature".
+ * </p>
+ * <p>
+ * Each method builds a dedicated header (see {@link AuthHeaderBuilder}), performs the connection, providing a
+ * body when required, and prints the response of the server.
+ * </p>
+ */
 public class RequestBuilder {
 
     private final static String REQUEST_URL = String.format("%s://%s/%s", Constants.REQUEST_PROTOCOL.getValue(),
