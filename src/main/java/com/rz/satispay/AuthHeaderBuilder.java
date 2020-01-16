@@ -5,10 +5,27 @@ import java.util.Set;
 
 public class AuthHeaderBuilder {
 
-    public static Set<HeaderField> build() {
-
+    public static Set<HeaderField> buildGetHeader() {
         Set<HeaderField> headers = HeadersBuilder.buildGetHeaders();
         headers.add(new HeaderField("authorization", createAuthString(headers)));
+
+        return headers;
+    }
+
+    public static Set<HeaderField> buildPostHeader(String body) {
+
+        Set<HeaderField> headers = HeadersBuilder.buildPostHeaders(body);
+        headers.add(new HeaderField("authorization", createAuthString(headers)));
+        headers.add(new HeaderField("Content-Type", "application/json"));
+
+        return headers;
+    }
+
+    public static Set<HeaderField> buildPutHeader(String body) {
+
+        Set<HeaderField> headers = HeadersBuilder.buildPutHeaders(body);
+        headers.add(new HeaderField("authorization", createAuthString(headers)));
+        headers.add(new HeaderField("Content-Type", "application/json"));
 
         return headers;
     }
